@@ -1,7 +1,4 @@
 # Ecowheel-car-rental-website  – Dominate the Drive 🚗💨
-
-*Live Demo*: [[https://ririuwa.github.io/ecowheel-car-rental-website/Index.html](https://github.com/ririuwa/ecowheel-car-rental-website/Fleet.html)](https://github.com/ririuwa/ecowheel-car-rental-website)
-
 A fully responsive, high-performance luxury car rental website built with *pure HTML, CSS, and Vanilla JavaScript* — no frameworks.
 
 ### Features
